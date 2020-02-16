@@ -2,5 +2,5 @@ docker build -t adityas1200/node-web-app
 
 $ docker images
 
-docker run -p 49160:8181 -d adityas1200/node-web-app
+docker run -p 49160:8181 -d adityas1200/nodewebapp
 
